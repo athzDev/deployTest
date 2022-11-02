@@ -1,5 +1,6 @@
 {
   "name": "pos-web-app",
+  "homepage": "https://athzDev.github.io/deployTest",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
