@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/deployTest/static/css/main.bff99f06.css",
+    "main.js": "/deployTest/static/js/main.bde65877.js",
+    "static/js/787.ed9bb696.chunk.js": "/deployTest/static/js/787.ed9bb696.chunk.js",
+    "static/media/dashboard-bg.png": "/deployTest/static/media/dashboard-bg.ea9844c3a80afafa5765.png",
+    "static/media/login-bg.png": "/deployTest/static/media/login-bg.e320bbf1541682665338.png",
+    "static/media/Inter-Bold.woff": "/deployTest/static/media/Inter-Bold.3a84061fa1e9573b4a9f.woff",
+    "static/media/Inter-Light.woff": "/deployTest/static/media/Inter-Light.ec5268cf58f8972b50dd.woff",
+    "static/media/Inter-Regular.woff": "/deployTest/static/media/Inter-Regular.f3ce705f806c10eb6e2d.woff",
+    "static/media/login-form-logo.png": "/deployTest/static/media/login-form-logo.64a7f38c392ffb661b9a.png",
+    "static/media/Inter-Bold.woff2": "/deployTest/static/media/Inter-Bold.df454d31cb00344b1ff1.woff2",
+    "static/media/Inter-Light.woff2": "/deployTest/static/media/Inter-Light.afa727d8db7992117c0f.woff2",
+    "static/media/Inter-Regular.woff2": "/deployTest/static/media/Inter-Regular.ac03a6de9ea313009257.woff2",
+    "static/media/product-2.png": "/deployTest/static/media/product-2.e0bd30f397be609c0b29.png",
+    "static/media/product-3.png": "/deployTest/static/media/product-3.8db1707f75b819f75ce6.png",
+    "static/media/product-1.png": "/deployTest/static/media/product-1.69745e72de00b3236eea.png",
+    "static/media/onflap-logo-black.png": "/deployTest/static/media/onflap-logo-black.aa3fcb63924908860787.png",
+    "static/media/onflap-logo-black-small.png": "/deployTest/static/media/onflap-logo-black-small.ff4f11b11154b86666ab.png",
+    "static/media/onflap-logo.png": "/deployTest/static/media/onflap-logo.1e9a98e69c9e5d4d8c82.png",
+    "index.html": "/deployTest/index.html",
+    "main.bff99f06.css.map": "/deployTest/static/css/main.bff99f06.css.map",
+    "main.bde65877.js.map": "/deployTest/static/js/main.bde65877.js.map",
+    "787.ed9bb696.chunk.js.map": "/deployTest/static/js/787.ed9bb696.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bff99f06.css",
+    "static/js/main.bde65877.js"
+  ]
+}
