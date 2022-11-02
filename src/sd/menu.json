@@ -1,0 +1,313 @@
+[
+    {
+        "id": "0",
+        "title": "Dashboard",
+        "icon": "dashboard",
+        "url": "/"
+    },
+    {
+        "id": "1",
+        "title": "Customer",
+        "icon": "customers",
+        "url": "customers",
+        "menus": [
+            {
+                "icon": "inside-menu",
+                "url": "customer-list",
+                "title": "Customer List"
+            }
+        ]
+    },
+    {
+        "id": "2",
+        "title": "Products",
+        "icon": "products",
+        "url": "products",
+        "menus": [
+            {
+                "icon": "inside-menu",
+                "url": "product-list",
+                "title": "Product List"
+            },
+            {
+                "icon": "inside-menu",
+                "url": "recipe",
+                "title": "Recipe"
+            },
+            {
+                "icon": "inside-menu",
+                "url": "topping",
+                "title": "Toppings"
+            },
+            {
+                "icon": "inside-menu",
+                "url": "offer-product",
+                "title": "Offer Product"
+            },
+            {
+                "icon": "inside-menu",
+                "url": "manage-offer",
+                "title": "Manage Offer"
+            }
+        ]
+    },
+    {
+        "id": "3",
+        "title": "Stock",
+        "icon": "stock",
+        "url": "stock",
+        "menus": [
+            {
+                "icon": "inside-menu",
+                "url": "adjust-stock",
+                "title": "Adjust Stock"
+            },
+            {
+                "icon": "inside-menu",
+                "url": "current-stock",
+                "title": "Current Stock"
+            },
+            {
+                "icon": "inside-menu",
+                "url": "reorder-stock",
+                "title": "Reorder Stock"
+            },
+            {
+                "icon": "inside-menu",
+                "url": "stock-transfer",
+                "title": "Stock Transfer"
+            }
+        ]
+    },
+    {
+        "id": "4",
+        "title": "Supplier",
+        "icon": "supplier",
+        "url": "supplier",
+        "menus": [
+            {
+                "icon": "inside-menu",
+                "url": "supplier-list",
+                "title": "Supplier List"
+            }
+        ]
+    },
+    {
+        "id": "5",
+        "title": "Master",
+        "icon": "master",
+        "url": "master",
+        "menus": [
+            {
+                "icon": "inside-menu",
+                "url": "country",
+                "title": "Country"
+            },
+            {
+                "icon": "inside-menu",
+                "url": "city",
+                "title": "City"
+            },
+            {
+                "icon": "inside-menu",
+                "url": "location",
+                "title": "Location"
+            },
+            {
+                "icon": "inside-menu",
+                "url": "warehouse",
+                "title": "Warehouse"
+            },
+            {
+                "icon": "inside-menu",
+                "url": "system-parameters",
+                "title": "System Parameters"
+            },
+            {
+                "icon": "inside-menu",
+                "url": "delivery-status",
+                "title": "Delivery Status"
+            },
+            {
+                "icon": "inside-menu",
+                "url": "product-category",
+                "title": "Product Category"
+            },
+            {
+                "icon": "inside-menu",
+                "url": "product-type",
+                "title": "Product Type"
+            },
+            {
+                "icon": "inside-menu",
+                "url": "tables",
+                "title": "Tables"
+            },
+            {
+                "icon": "inside-menu",
+                "url": "branch",
+                "title": "Branch"
+            },
+            {
+                "icon": "inside-menu",
+                "url": "tax-schema",
+                "title": "Tax Schema"
+            },
+            {
+                "icon": "inside-menu",
+                "url": "tax",
+                "title": "Tax"
+            },
+            {
+                "icon": "inside-menu",
+                "url": "customer-category",
+                "title": "Customer Category"
+            }
+        ]
+    },
+    {
+        "id": "6",
+        "title": "Purchase",
+        "icon": "purchase",
+        "url": "purchase",
+        "menus": [
+            {
+                "icon": "inside-menu",
+                "url": "purchase-order-list",
+                "title": "Purchase Order List"
+            }
+        ]
+    },
+    {
+        "id": "7",
+        "title": "Point Of Sales",
+        "icon": "pointofsales",
+        "url": "pointofsales",
+        "menus": [
+            {
+                "icon": "inside-menu",
+                "url": "digital-menu",
+                "title": "Digital Menu"
+            },
+            {
+                "icon": "inside-menu",
+                "url": "posdirect",
+                "title": "POSDIRECT"
+            },
+            {
+                "icon": "inside-menu",
+                "url": "pos",
+                "title": "POS"
+            },
+            {
+                "icon": "inside-menu",
+                "url": "kitchen",
+                "title": "Kitchen"
+            },
+            {
+                "icon": "inside-menu",
+                "url": "ready-to-delivery",
+                "title": "Ready To Delivery"
+            },
+            {
+                "icon": "inside-menu",
+                "url": "dine-in",
+                "title": "Dine In"
+            },
+            {
+                "icon": "inside-menu",
+                "url": "order-history",
+                "title": "Order History"
+            },
+            {
+                "icon": "inside-menu",
+                "url": "pos-order",
+                "title": "POS Order"
+            },
+            {
+                "icon": "inside-menu",
+                "url": "pos-dine-in",
+                "title": "POS Dine In"
+            },
+            {
+                "icon": "inside-menu",
+                "url": "pos-enquiry",
+                "title": "POS Enquiry"
+            },
+            {
+                "icon": "inside-menu",
+                "url": "pos-kitchen-order",
+                "title": "POS Kitchen Order"
+            }
+        ]
+    },
+    {
+        "id": "8",
+        "title": "Sales",
+        "icon": "sales",
+        "url": "sales",
+        "menus": [
+            {
+                "icon": "inside-menu",
+                "url": "sales-order",
+                "title": "Sales Order"
+            },
+            {
+                "icon": "inside-menu",
+                "url": "supply",
+                "title": "Supply"
+            }
+        ]
+    },
+    {
+        "id": "9",
+        "title": "Employee",
+        "icon": "employees",
+        "url": "employees",
+        "menus": [
+            {
+                "icon": "inside-menu",
+                "url": "employees-list",
+                "title": "Employees List"
+            }
+        ]
+    },
+    {
+        "id": "10",
+        "title": "Reports",
+        "icon": "reports",
+        "url": "reports",
+        "menus": [
+            {
+                "icon": "inside-menu",
+                "url": "inventory-reports",
+                "title": "Inventory Reports"
+            },
+            {
+                "icon": "inside-menu",
+                "url": "purchase-reports",
+                "title": "Purchase Report"
+            },
+            {
+                "icon": "inside-menu",
+                "url": "sales-report",
+                "title": "Sales Report"
+            },
+            {
+                "icon": "inside-menu",
+                "url": "pos-report",
+                "title": "POS Report"
+            },
+            {
+                "icon": "inside-menu",
+                "url": "daily-sales-report",
+                "title": "Daily Sales Report"
+            },
+            {
+                "icon": "inside-menu",
+                "url": "management-reports",
+                "title": "Management Reports"
+            }
+        ]
+    }
+]

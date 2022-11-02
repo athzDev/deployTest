@@ -1,0 +1,55 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "lib": [
+      "dom",
+      "dom.iterable",
+      "esnext"
+    ],
+    "typeRoots": ["./node_modules/@types", "./src/types"],
+    "allowJs": true,
+    "skipLibCheck": true,
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    "strict": false,
+    "forceConsistentCasingInFileNames": true,
+    "module": "esnext",
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "noEmit": true,
+    "jsx": "react-jsx",
+    "sourceMap": false,
+    "rootDir": "./",
+    "outDir": "build",
+    "checkJs": true,
+    "alwaysStrict": false,
+    "removeComments": true,
+    "baseUrl": ".",
+    "inlineSourceMap": false,
+    "noImplicitAny": false,
+    "noImplicitThis": false,
+    "noImplicitReturns": false,
+    "noFallthroughCasesInSwitch": false,
+    "noStrictGenericChecks": false,
+    "noUnusedLocals": false,
+    "noUnusedParameters": false,
+    "skipDefaultLibCheck": false,
+    "strictNullChecks": false,
+    "downlevelIteration": true,
+    "plugins": [
+      {
+        "name": "typescript-styled-plugin"
+      }
+    ]
+  },
+  "include": [
+    "**/*.ts",
+    "**/*.tsx",
+    "types.d.ts"
+, "src/components/flags/flags.js", "src/components/LiveDealerCraousel/index.js", "src/html/AsideComponents/Aside.js", "src/html/AsideComponents/Aside.styles.js", "src/html/AsideComponents/ReusableCmp.js"],
+  "exclude": [
+    "node_modules",
+    "build"
+  ]
+}

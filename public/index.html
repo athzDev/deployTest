@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <link rel="icon" href="%PUBLIC_URL%/favicon.ico" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#000000" />
+    <meta
+      name="description"
+      content="Web site created using create-react-app"
+    />
+    <link rel="apple-touch-icon" href="%PUBLIC_URL%/logo192.png" />
+    <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
+    <style type="text/css">
+      .globalLoader {
+        position: fixed;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        background: rgb(19 17 17 / 50%);
+        color: #fff;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        display: none;
+      }
+  
+      .globalLoader>img {
+        max-width: 200px;
+      }
+  
+      .globalLoaderShow {
+        display: flex;
+      }
+  
+      body {
+        background-color: #000;
+      }
+    </style>
+    <title>POS</title>
+  </head>
+  <body>
+    <noscript>You need to enable JavaScript to run this app.</noscript>
+    <div id="root"></div>
+    <div class="globalLoader"><img src="%PUBLIC_URL%/loading.gif" alt=""></div>
+  </body>
+</html>
